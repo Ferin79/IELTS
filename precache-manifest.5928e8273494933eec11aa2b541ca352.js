@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ce89a1118ad29d29d3f7437e1904174",
+    "revision": "c22c8f4edf88e953387f0ea79358fe0b",
     "url": "/IELTS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IELTS/static/css/2.6b5d40a7.chunk.css"
   },
   {
-    "revision": "28196d4237ee96287a70",
+    "revision": "a0112aab5c3dc2694068",
     "url": "/IELTS/static/css/main.b7487bce.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IELTS/static/js/2.371cd73a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28196d4237ee96287a70",
-    "url": "/IELTS/static/js/main.93dc6a36.chunk.js"
+    "revision": "a0112aab5c3dc2694068",
+    "url": "/IELTS/static/js/main.97b6cd62.chunk.js"
   },
   {
     "revision": "5c767c1f854c4d8de837",
