@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/IELTS/static/css/main.3b952aef.chunk.css",
-    "main.js": "/IELTS/static/js/main.2ef5a5d9.chunk.js",
-    "main.js.map": "/IELTS/static/js/main.2ef5a5d9.chunk.js.map",
+    "main.css": "/IELTS/static/css/main.d5ee7410.chunk.css",
+    "main.js": "/IELTS/static/js/main.dfc614f2.chunk.js",
+    "main.js.map": "/IELTS/static/js/main.dfc614f2.chunk.js.map",
     "runtime-main.js": "/IELTS/static/js/runtime-main.e275631c.js",
     "runtime-main.js.map": "/IELTS/static/js/runtime-main.e275631c.js.map",
     "static/css/2.6b5d40a7.chunk.css": "/IELTS/static/css/2.6b5d40a7.chunk.css",
-    "static/js/2.eb6f480b.chunk.js": "/IELTS/static/js/2.eb6f480b.chunk.js",
-    "static/js/2.eb6f480b.chunk.js.map": "/IELTS/static/js/2.eb6f480b.chunk.js.map",
+    "static/js/2.25b66fd5.chunk.js": "/IELTS/static/js/2.25b66fd5.chunk.js",
+    "static/js/2.25b66fd5.chunk.js.map": "/IELTS/static/js/2.25b66fd5.chunk.js.map",
     "index.html": "/IELTS/index.html",
-    "precache-manifest.aa613ba8a8d8004b0b26e46d63051199.js": "/IELTS/precache-manifest.aa613ba8a8d8004b0b26e46d63051199.js",
+    "precache-manifest.87c1e3ba797d8cdca345e6a60edba5d8.js": "/IELTS/precache-manifest.87c1e3ba797d8cdca345e6a60edba5d8.js",
     "service-worker.js": "/IELTS/service-worker.js",
     "static/css/2.6b5d40a7.chunk.css.map": "/IELTS/static/css/2.6b5d40a7.chunk.css.map",
-    "static/css/main.3b952aef.chunk.css.map": "/IELTS/static/css/main.3b952aef.chunk.css.map",
-    "static/js/2.eb6f480b.chunk.js.LICENSE.txt": "/IELTS/static/js/2.eb6f480b.chunk.js.LICENSE.txt",
+    "static/css/main.d5ee7410.chunk.css.map": "/IELTS/static/css/main.d5ee7410.chunk.css.map",
+    "static/js/2.25b66fd5.chunk.js.LICENSE.txt": "/IELTS/static/js/2.25b66fd5.chunk.js.LICENSE.txt",
     "static/media/skype_remix_2.mp3": "/IELTS/static/media/skype_remix_2.5ab01274.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.e275631c.js",
     "static/css/2.6b5d40a7.chunk.css",
-    "static/js/2.eb6f480b.chunk.js",
-    "static/css/main.3b952aef.chunk.css",
-    "static/js/main.2ef5a5d9.chunk.js"
+    "static/js/2.25b66fd5.chunk.js",
+    "static/css/main.d5ee7410.chunk.css",
+    "static/js/main.dfc614f2.chunk.js"
   ]
 }
