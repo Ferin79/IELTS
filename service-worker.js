@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IELTS/precache-manifest.87c1e3ba797d8cdca345e6a60edba5d8.js"
+  "/IELTS/precache-manifest.dde9199c543e84c7843afe7595518030.js"
 );
 
 self.addEventListener('message', (event) => {
